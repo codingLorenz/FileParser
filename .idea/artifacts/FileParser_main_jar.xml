@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileParser.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileParser_main_jar</output-path>
+    <properties id="ant-postprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="archive" name="FileParser.main.jar">
+      <element id="module-output" name="FileParser.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/19.0.2/6f82ebdc62f3f0a1e783ae986d904de5a2f8d0cc/javafx-base-19.0.2-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/19.0.2/7a24341f9ff724f19fe350b9d906e8ec11339aa1/javafx-graphics-19.0.2-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/19.0.2/66da6fbc91d097fedd5e8f4223d7ecd189783090/javafx-controls-19.0.2-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/19.0.2/ecf511b87c09339a4cc0d359830b3f5c6085a913/javafx-fxml-19.0.2-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/19.0.2/8d02216cf976b6092874d442f075ea796c848af2/javafx-base-19.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/19.0.2/fef4194305f4cb3c50437a389f18ee2b3df31444/javafx-graphics-19.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.controlsfx/controlsfx/11.1.2/584bc3f468e2c33100fcdbb1daf0a3e095e5e031/controlsfx-11.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/19.0.2/9e0c1c543bc9d4ce4dc92e18849e065b15d550bd/javafx-controls-19.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
